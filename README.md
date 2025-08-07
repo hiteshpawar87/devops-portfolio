@@ -6,7 +6,7 @@ Welcome to my DevOps Portfolio! I'm a Senior DevOps Engineer with 6+ years of ex
 
 ## 🔧 About Me
 
-- 💼 DevOps Engineer at TCS | Ex: [Any Previous Notable Clients or Projects]
+- 💼 DevOps Engineer at TCS | Ex: Future Focus
 - 🏆 AWS Certified DevOps Engineer – Professional
 - 🏆 AWS Certified Solution Architect – Professional
 - 💻 Focused on CI/CD, Kubernetes, Terraform, Monitoring, and DevSecOps
